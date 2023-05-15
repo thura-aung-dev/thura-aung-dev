@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning everything that new for me
 - 📫 How to reach me: tm7y.thuraaung@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Happy coding :)
+- ⚡ Fun fact: Happy coding 🤐
 
 <!--
 **thura-aung-dev/thura-aung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
