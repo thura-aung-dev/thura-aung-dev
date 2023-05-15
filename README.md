@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Thura! 👋
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=thura-aung-dev&show_icons=true&theme=tokyonight&icon_color=2f80ed&text_color=2f80ed">
+
+<img alight="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thura-aung-dev&hide_progress=true">
+
 
 <!--
 **thura-aung-dev/thura-aung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
