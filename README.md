@@ -4,7 +4,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/thura-aung-dev?logo=github&style=for-the-badge&color=0ca4a5)](https://github.com/thura-aung-dev) &nbsp;
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=thura-aung-dev&show_icons=true&theme=tokyonight&icon_color=000&text_color=fff&border_color=000&title_color=fff&bg_color=0ca4a5&ring_color=fff&line_height=29">
-
 <img alight="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thura-aung-dev&icon_color=000&text_color=fff&border_color=000&title_color=fff&&hide_progress=true&bg_color=0ca4a5">
 
 <h1>✌️ Familiar Tools & IDE</h1>
